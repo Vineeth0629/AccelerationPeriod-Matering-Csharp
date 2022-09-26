@@ -1,1 +1,37 @@
-sample
+1.What is .NET?
+Ans: It is a product of Microsoft launched in the year 2002, which can be used for building various kinds of Applications like: Web, Mobile, Desktop, Micro services, Cloud, Machine Learning, Game Development and IoT.
+
+2.How to develop all the above applications by using .NET?
+Ans: To develop the above applications, .NET provides with a set of Programming Languages, Technologies & Servers using which we can build any kind of Application.
+
+4. What are the Programming Languages, .NET provides to us?
+Ans: In .NET there are 30+ programming languages available for a developer to build applications and programmers have a chance of choosing any 1 language from the list.
+
+5. Features of .NET: there are 2 important features in .NET, those are:
+     1.Language independent
+
+     2.Platform independent
+
+  1) Language Independent: .NET is a collection of programming Languages i.e.; it provides us multiple languages for building our applications and developers can choose any 1 language from the list to build their applications.
+
+*Most of these languages are extension to some existing languages, like:
+
+C, CPP		=>	C#
+Cobol		      =>	Cobol.NET
+Pascal		=>	Pascal.NET
+Fortran		=>	Fortran.NET
+Visual Basic	=>	VB.NET
+Python		=>	Python.NET (Iron Python)
+Java		      =>	J#.NET
+
+* most popular of all these languages is “C#”
+*C# Source Code => Compiled by using C# Compiler => CIL Code
+
+   2.Platform independent: it is an approach of executing an application that is developed on 1 platform
+
+
+6.What is .NET Framework used for?
+Ans: .NET Framework is used to create and run software applications.
+
+
+Libraries: A library is a set of re-usable functionalities, and every programming language has built-in libraries to it like Header Files in C & CPP Languages
