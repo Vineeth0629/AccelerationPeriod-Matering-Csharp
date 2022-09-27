@@ -34,4 +34,19 @@ Java		      =>	J#.NET
 Ans: .NET Framework is used to create and run software applications.
 
 
-Libraries: A library is a set of re-usable functionalities, and every programming language has built-in libraries to it like Header Files in C & CPP Languages
+*Libraries: A library is a set of re-usable functionalities, and every programming language has built-in libraries to it like Header Files in C & CPP Languages
+*Execution Engine: as discussed earlier, .NET Applications will not run under the OS, but they will be running under the Runtime 
+*CLR and Core CLR are known as the execution engine of .NET Runtime
+*Security Engine: this is responsible for the security of our applications
+*JIT Compiler:The compiler which is responsible for converting CIL Code into Machine Code
+*Garbage Collector: it is responsible for “Automatic Memory Management” where “Memory Management” is a process of allocation and de-allocation of memory
+
+*.NET Framework: it is the original implementation of .NET and it supports running websites, services, desktop apps, and more on Windows.
+
+*.NET Core: it is a cross-platform implementation for running websites, services, and console apps on Windows, Linux, and macOS.
+
+*.NET Core SDK (Software Development Kit) includes everything you need to build and run .NET Core applications using command line tools or any editor like Visual Studio. 
+
+Github:
+
+*GitHub is a code hosting platform for collaboration and version control. It is a repository (usually abbreviated to “repo”) is a location where all the files for a particular project are stored which lets you (and others) work together on projects.
