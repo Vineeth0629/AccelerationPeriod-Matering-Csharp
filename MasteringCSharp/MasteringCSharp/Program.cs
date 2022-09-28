@@ -1,4 +1,6 @@
-﻿namespace MasteringCSharp
+﻿using MasteringCSharp.Assignment;
+
+namespace MasteringCSharp
 {
     public class Program
     {
@@ -13,8 +15,14 @@
             //datatypes.DatatypesFunction();
             //var obj = new Literals();
             //obj.LiteralFunction();
-            var obj = new TypeCasting();
-            obj.ImplicitExplisit();
+            //var obj = new TypeCasting();
+            //obj.ImplicitExplisit();
+            // var obj = new OperatorsClass();
+            //obj.OperatorFunc();
+            //var obj = new FindPrimeNumber();
+            //obj.IsPrimeNumber();
+            var obj = new FindCharacterInAString();
+            obj.FindString();
 
 
         }

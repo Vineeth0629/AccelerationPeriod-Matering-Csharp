@@ -21,7 +21,7 @@ namespace MasteringCSharp
             Console.WriteLine(d);
             Console.WriteLine("The value of b is :" +b);
             Console.WriteLine("Given string :" +s1 );
-            Console.WriteLine($"Given string :{s2}");
+            Console.WriteLine($"Given string :{s2} and second string is :{s1}"  );
             bool b1=true;
             bool b2=false;
           

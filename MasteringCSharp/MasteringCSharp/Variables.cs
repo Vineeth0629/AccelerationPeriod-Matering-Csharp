@@ -8,11 +8,22 @@ namespace MasteringCSharp
 {
     internal class Variables
     {
-        public void VariablesNames()
+      
+        static int b = 10;
+        const int id =123; // throught application we can't change the value
+        readonly int empid; //
+        public static void VariablesNames()
         {
-            int a = 1;//non static
-            static int b = 10;
+        //instance of class is required to access Non static members
+            TypeCasting obj = new TypeCasting();
+            obj.ImplicitExplisit();
+            //initialization
+            string name = "hello";
+            
+            int a = b;//non static
+           
             Console.WriteLine(b);
+           
         }
 
     }
