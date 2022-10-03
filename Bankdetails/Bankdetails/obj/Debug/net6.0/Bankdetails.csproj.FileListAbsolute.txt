@@ -1,0 +1,15 @@
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.csproj.AssemblyReference.cache
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.AssemblyInfoInputs.cache
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.AssemblyInfo.cs
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.csproj.CoreCompileInputs.cache
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\bin\Debug\net6.0\Bankdetails.exe
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\bin\Debug\net6.0\Bankdetails.deps.json
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\bin\Debug\net6.0\Bankdetails.runtimeconfig.json
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\bin\Debug\net6.0\Bankdetails.dll
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\bin\Debug\net6.0\Bankdetails.pdb
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.dll
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\refint\Bankdetails.dll
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.pdb
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\Bankdetails.genruntimeconfig.cache
+C:\Users\91834\source\repos\vinee\Bankdetails\Bankdetails\obj\Debug\net6.0\ref\Bankdetails.dll
