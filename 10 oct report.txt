@@ -1,0 +1,18 @@
+Method:
+Syntax:<access modifier> <return type> <methodname>(<datatype>  <parameter1>,<datatype>  <para2>)
+Memory allocations:
+Local variable:
+1.no memory for method and class
+2.memory will allocate for fields/variables
+3.As part of method execution, memory will allocate for local variable 
+4.Once method execution completed, memory will be deallocate 
+  Instance variable:
+1.when the object is created, memory will allocate
+2.once object is destroyed, memory will be deallocate
+3.object can be destroyed by garbage collector and programmer
+Static variable:
+1.when the class is loading, memory will be allocated
+2.when class is unloading, memory will be deallocated
+
+=>Added interface for bank
+
