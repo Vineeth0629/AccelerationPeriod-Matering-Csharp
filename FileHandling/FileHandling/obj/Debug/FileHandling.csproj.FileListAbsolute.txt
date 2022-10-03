@@ -1,0 +1,8 @@
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\91834\source\repos\vinee\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
