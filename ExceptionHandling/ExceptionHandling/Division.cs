@@ -32,14 +32,14 @@ namespace ExceptionHandling
             int c = 0;
             try
             {
-                 c = a / b;
+                c = a / b;
             }
-            catch(DivideByZeroException exception)
+            catch (DivideByZeroException exception)
             {
                 throw exception;
             }
-            
-            catch(Exception ex)
+
+            catch (Exception ex)
             {
 
                 return 0;
